@@ -1,6 +1,6 @@
 #  H2 Scene
 
-## a) Podcast
+##  a) Podcast
 
 **Podcast:** Darknet Diaries  
 **Episode:** EP 180: Conti  
@@ -13,7 +13,10 @@
 - One interesting part of the story is that information from inside the group became public.
 - The episode shows that ransomware is not only a technical problem but also organised cybercrime.
 
-### My thought / question
+### My thought 
+
+What I found most interesting was how organised the Conti group was.
+It made me wonder how organisations can prepare for attacks when the attackers have so much experience and resources.
 
 
 ## b) Blog
@@ -29,7 +32,7 @@
 - The article shows that ransomware is still a current cybersecurity threat.
 - Organisations therefore need to prepare for attacks before they happen.
 
-### My thought / question
+### My thought 
 
 - I found it interesting that ransomware is still a growing problem even though some well-known ransomware groups have disappeared.
 
@@ -54,9 +57,8 @@ The ransomware threat can also be considered through the CIA model:
 ## d) Download Debian
 
 - I downloaded **Debian 13 Trixie Live Xfce** from the Debian website.
-- File: [add the exact ISO filename after downloading]
 - The ISO file was saved on the computer I will use during the course.
--  screenshot showing the downloaded ISO file.]
+
 
 ## Sources
 
